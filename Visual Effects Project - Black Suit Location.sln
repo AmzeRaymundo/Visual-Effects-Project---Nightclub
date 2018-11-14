@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visual Effects Project - Black Suit Location", "Assembly-CSharp.csproj", "{65015D00-7386-6C3C-9F37-0775078BC28F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visual Effects Project - Black Suit Location", "Assembly-CSharp-Editor.csproj", "{A5EC966E-FCAD-1A36-AFDC-06B8638A04B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65015D00-7386-6C3C-9F37-0775078BC28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65015D00-7386-6C3C-9F37-0775078BC28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65015D00-7386-6C3C-9F37-0775078BC28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65015D00-7386-6C3C-9F37-0775078BC28F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5EC966E-FCAD-1A36-AFDC-06B8638A04B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EC966E-FCAD-1A36-AFDC-06B8638A04B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EC966E-FCAD-1A36-AFDC-06B8638A04B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EC966E-FCAD-1A36-AFDC-06B8638A04B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
